@@ -1,0 +1,24 @@
+
+# Archivos temporales
+*.tmp
+*.bak
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores de código
+.vscode/
+.idea/
+
+# Archivos compilados
+*.o
+*.obj
+*.exe
+*.out
+
+# Archivos de respaldo
+*~
+*.swp

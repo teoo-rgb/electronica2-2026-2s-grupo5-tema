@@ -23,9 +23,9 @@
 
 ## Objetivo del proyecto
 
-[Primera línea del objetivo del proyecto.]
+Diseñar filtros FIR paso alto y paso banda de 64 coeficientes con ventana Hamming y verificar su respuesta sobre señales I/Q capturadas con el ADALM-Pluto.
 
-[Segunda línea del objetivo del proyecto.]
+
 
 ## Estructura del repositorio
 

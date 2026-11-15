@@ -16,7 +16,7 @@
 
 ## Integrantes
 
-1. Castro Alejandro
+1. Castro Moreno Alejandro Nicolas
 2. Guerrero David
 3. Naranjo Páramo Cristofer Mateo.
 

@@ -12,12 +12,12 @@
 
 ## Proyecto asignado
 
-**Tema:** [Nombre del proyecto asignado]
+**Tema:** [Filtros FIR en un receptor SDR]
 
 ## Integrantes
 
 1. Castro Moreno Alejandro Nicolas
-2. Guerrero David
+2. Guerrero Egas David Emanuel
 3. Naranjo Páramo Cristofer Mateo.
 
 

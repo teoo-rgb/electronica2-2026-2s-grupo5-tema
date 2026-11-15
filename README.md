@@ -12,7 +12,7 @@
 
 ## Proyecto asignado
 
-**Tema:** [Filtros FIR en un receptor SDR]
+**Tema:** Filtros FIR en un receptor SDR
 
 ## Integrantes
 
